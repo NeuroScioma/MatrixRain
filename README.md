@@ -6,7 +6,9 @@ Pass the percentage of progress in each cycle of a loop. The 'done' value is bet
 % example:
 
 for iCal = 1:1000 
+  
   % myCalculaiont(xx) 
   pause(0.05) 
   matrixRain(iCal/1000) 
+
 end
